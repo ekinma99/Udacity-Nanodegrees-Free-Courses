@@ -88,10 +88,11 @@ Developer role.
   1.  [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
   2.  [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
   3.  [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-  4.  [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-  5.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-  6.  [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
-  7.  [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
+  4.  [Asynchronous JavaScript](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+  5.  [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+  6.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+  7.  [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
+  8.  [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
 
 
 ---
